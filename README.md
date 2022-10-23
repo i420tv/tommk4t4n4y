@@ -20,6 +20,6 @@
 
 <i>Loved the project? Please consider [donating](https://paypal.me/lilalunarluna666) to help it improve!</i>
  
- <img src="https://https://imgur.com/PzsXHi5" alt="website"/>
+ <img src="https://i.imgur.com/PzsXHi5.png"/>
 </div>
 
