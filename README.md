@@ -6,7 +6,7 @@
 <!-- <img src="http://hits.dwyl.com/abhisheknaiidu/awesome-github-profile-readme.svg" alt="Hits Badge"/> -->
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 <a href="https://discord.gg/XTW52Kt"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
-<a href="https://twitter.com/LemaireASS" ><img src="https://img.shields.io/twitter/follow/LemaireASS.svg?style=social" /> </a>
+<a href="https://twitter.com/Lemaire" ><img src="https://img.shields.io/twitter/follow/Lemaire.svg?style=social" /> </a>
 <br>
 
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
@@ -18,7 +18,7 @@
 
 <img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
 
-<i>Loved the project? Please consider [donating](https://paypal.me/lilalunarluna666) to help it improve!</i>
+<i>Loved the project? Please consider [donating] to help it improve!</i>
  
  <img src="https://i.imgur.com/PzsXHi5.png" width="128" height="128"/>
 </div>
