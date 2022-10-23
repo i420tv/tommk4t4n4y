@@ -19,6 +19,7 @@
 <img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
 
 <i>Loved the project? Please consider [donating](https://paypal.me/lilalunarluna666) to help it improve!</i>
- <blockquote class="imgur-embed-pub" lang="en" data-id="PzsXHi5"><a href="https://imgur.com/PzsXHi5">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+ 
+ <img src="https://https://imgur.com/PzsXHi5" alt="website"/>
 </div>
 
